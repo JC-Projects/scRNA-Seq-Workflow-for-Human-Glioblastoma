@@ -8,9 +8,13 @@
 
 **Description**
 -
-This repo and attached report demonstrate an scRNA-Seq workflow in R. Included are the R scripts used to make the report in order to demonstrate the workflow and for repurposing for other more complex scRNA-Seq processes. References to the source dataset and documentation used are available in the report and in this readme.
+This repo demonstrate an scRNA-Seq workflow in R. Included are the R scripts in order to demonstrate the workflow and for repurposing for other more complex scRNA-Seq processes. References to the source dataset and documentation used are available in the report and in this readme.
 
 Figure names begin with a number corresponding to the line of code in the R Script file for easy reference.
+
+**To Do**
+-
+Create a report analysing the outputs and compiling the figures
 
 **References**
 - 
