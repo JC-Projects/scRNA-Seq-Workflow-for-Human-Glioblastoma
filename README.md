@@ -4,6 +4,13 @@
 This repo demonstrate an scRNA-Seq workflow in R. Included are the R scripts in order to demonstrate the workflow and for repurposing for other scRNA-Seq processes. References to the source dataset and documentation used are available below.
 Figure names begin with a number corresponding to the line of code in the R Script file for easy reference.
 
+**Sample Figures**
+-
+![Sample Image 1](https://github.com/JC-Projects/scRNA-Seq-Workflow-for-Human-Glioblastoma/blob/main/Figures/255%20-%20Cell%20Type%20Classification%20from%20SingleR.png)
+![Sample Image 2](https://github.com/JC-Projects/scRNA-Seq-Workflow-for-Human-Glioblastoma/blob/main/Figures/234%20-%20Top%20DEGs%20Per%20Cluster.png)
+![Sample Image 3](https://github.com/JC-Projects/scRNA-Seq-Workflow-for-Human-Glioblastoma/blob/main/Figures/236%20-%20Top%20DEGs%20by%20Cluster%20Violin%20Plots.png)
+
+_<br>_
 
 **References**
 - 
